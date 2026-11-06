@@ -12,7 +12,7 @@ A responsive dashboard that pulls live cryptocurrency data from the CoinGecko AP
 HTML, CSS, JavaScript (Fetch API)
 
 ## Live Demo
-https://your-live-url-here
+https://incryptic.netlify.app
 
 ## What I would improve
 Add a search bar to filter specific coins and a chart to visualize 7-day price history.
